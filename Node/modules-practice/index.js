@@ -1,0 +1,1 @@
+const cow = require('./cow');
